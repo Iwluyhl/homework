@@ -14,9 +14,9 @@ def send_email(messege, recipient, sender = "university.help@gmail.com"):
         
 
 
-send_email('проверка связи', 'vasyok1337@gmail.com')
-send_email('привет', 'urban.fan@mail.ru', sender='urban.info@gmail.com')
-send_email('hellp', 'urban.student@mail.ru', sender='urban.teacher@mail.uk')
-send_email('hi', 'urban.teacher@mail.ru', sender='urban.teacher@mail.ru')
+send_email('проверка связи', 'mmgg@gmail.com')
+send_email('привет', 'fan@mail.ru', sender='info@gmail.com')
+send_email('hellp', 'student@mail.ru', sender='aaff@mail.uk')
+send_email('hi', 'bbb@mail.ru', sender='bbb@mail.ru')
 
 
