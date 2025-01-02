@@ -5,3 +5,4 @@ def fake_divide(first, second):
         return "Error"
     else:
         return first / second
+    
